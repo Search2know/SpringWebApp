@@ -1,4 +1,4 @@
-package com.kovalchishin.SpringWebApp;
+package com.kovalchishin.SpringWebApp.infrastructure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
