@@ -29,14 +29,14 @@ Before running the application, make sure to configure the MongoDB connection se
 To use the application with Docker Compose, follow these steps:
 
 1. Build the project:
- ```  
+ ```  shell
  ./mvnw clean package
 ```
 
 2. Start the application and MongoDB using Docker Compose:
 3. Use the following commands:
     * Create a new file:
-      ```
+      ``` 
       create file [text to add]
       ```
       This command creates a new file with the provided text description.
